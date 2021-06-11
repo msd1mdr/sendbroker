@@ -1,0 +1,8 @@
+2021-06-11 08:22:56 INFO Akan email file YU001_20190108144627.csv
+2021-06-11 08:23:08 ERROR Gagal kirim YU001_20190108144627.csv: Couldn't connect to host, port: smtp-relay.sendinblue.com, 587; timeout 30000
+2021-06-11 08:24:22 INFO Akan ftp file ID001_20190108144627.csv
+2021-06-11 08:25:06 ERROR Gagal kirim ID001_20190108144627.csv: File operation failed: null connect timed out. Code: 0
+2021-06-11 08:25:06 INFO Akan ftp file AD001_20190108144635.csv
+2021-06-11 08:25:07 ERROR File tidak ditemukan
+2021-06-11 08:25:36 INFO Akan ftp file MI001_20190108144627.csv
+2021-06-11 08:26:19 ERROR Gagal kirim MI001_20190108144627.csv: File operation failed: null connect timed out. Code: 0
